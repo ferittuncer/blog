@@ -27,10 +27,6 @@ module.exports = {
         name: 'linkedin',
         url: 'https://linkedin.com/in/ferit-tuncer',
       },
-      {
-        name: 'stackoverflow',
-        url: 'https://stackoverflow.com/users/1079908',
-      },
     ],
   },
   plugins: [
