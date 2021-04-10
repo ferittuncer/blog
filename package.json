@@ -1,9 +1,7 @@
 {
-  "name": "gatsby-starter-glass",
+  "name": "blog",
   "private": true,
-  "description": "A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.",
   "version": "1.0.0",
-  "author": "Yinka Adedire <yinkakun@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.12.0",
     "gatsby": "^3.0.1",
