@@ -1,27 +1,23 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `Blog`,
     author: {
-      name: `Yinka Adedire`,
-      summary: `Self-taught front-end web dev. JAMStack.`,
+      name: `Ferit Tunçer`,
+      summary: `Cypherpunk at Kleros, audiophile and a bit closer to heaven.`,
     },
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
-    siteUrl: `https://gatsbyglass.netlify.app`,
+    description: `A personal blog.`,
+    siteUrl: `https://fervent-brattain-a7d2ba.netlify.app/`,
     social: {
-      twitter: `yinkakun`,
+      twitter: `0xferittuncer`,
     },
     socialLinks: [
       {
         name: 'github',
-        url: 'https://github.com',
+        url: 'https://github.com/ferittuncer',
       },
       {
         name: 'twitter',
-        url: 'https://twitter.com',
-      },
-      {
-        name: 'instagram',
-        url: 'https://instagram.com',
+        url: 'https://twitter.com/0xferittuncer',
       },
     ],
   },
