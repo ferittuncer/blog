@@ -19,6 +19,18 @@ module.exports = {
         name: 'twitter',
         url: 'https://twitter.com/0xferittuncer',
       },
+      {
+        name: 'keybase',
+        url: 'https://keybase.io/ferit',
+      },
+      {
+        name: 'linkedin',
+        url: 'https://linkedin.com/in/ferit-tuncer',
+      },
+      {
+        name: 'stackoverflow',
+        url: 'https://stackoverflow.com/users/1079908',
+      },
     ],
   },
   plugins: [
