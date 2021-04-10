@@ -6,7 +6,7 @@ module.exports = {
       summary: `Cypherpunk at Kleros, audiophile and a bit closer to heaven.`,
     },
     description: `A personal blog.`,
-    siteUrl: `https://fervent-brattain-a7d2ba.netlify.app/`,
+    siteUrl: `https://ferittuncer.netlify.app/`,
     social: {
       twitter: `0xferittuncer`,
     },
