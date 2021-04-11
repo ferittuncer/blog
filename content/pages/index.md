@@ -1,8 +1,7 @@
 ---
-template: 'index-template'
-title: 'Gatsby Starter Glass'
+title: Log
+template: index-template
 ---
+\#Ferit's Personal Blog
 
-#Hello World
-
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+Things about programming and cryptoanarchy.
